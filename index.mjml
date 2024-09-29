@@ -1,5 +1,6 @@
 <mjml>
   <mj-head>
+    <mj-title>We have a discount waiting for you!</mj-title>
     <mj-style>
       * {
         box-sizing: border-box;
