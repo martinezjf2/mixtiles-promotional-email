@@ -12,9 +12,110 @@
 
     </mj-style>
   </mj-head>
-  <mj-body>
+  <mj-body background-color="#f2f2f2">
+    <mj-wrapper background-color="white" padding="0">
+
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="https://mixtiles-promotional-email.s3.amazonaws.com/header.jpg" alt="header image" padding="0" align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="https://mixtiles-promotional-email.s3.amazonaws.com/banner.jpg" alt="create a wall image" padding="0" align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="https://mixtiles-promotional-email.s3.amazonaws.com/discount.jpg" alt="discount" padding="0" align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="https://mixtiles-promotional-email.s3.amazonaws.com/banner-2.jpg" alt="tranquil wall image" padding="0" align="center" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Here will go the gif section -->
+
+      <mj-section padding="0px 0 0">
+        <mj-column>
+          <mj-image src="https://mixtiles-promotional-email.s3.amazonaws.com/new-photos.jpg" alt="new photo books" align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="https://mixtiles-promotional-email.s3.amazonaws.com/iphone.gif" alt="iphone gif" width="350px" align="center" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="https://mixtiles-promotional-email.s3.amazonaws.com/start-now.jpg" alt="start now button" align="center" />
+        </mj-column>
+      </mj-section>
 
 
+
+
+
+      <!-- Footer section -->
+
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column>
+            <mj-image src="https://mixtiles-promotional-email.s3.amazonaws.com/rating.jpg" alt="first rating" padding="0" align="center" />
+          </mj-column>
+          <mj-column>
+            <mj-image src="https://mixtiles-promotional-email.s3.amazonaws.com/second-rating.jpg" alt="second rating" padding="0" align="center" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+
+
+
+
+      <mj-section padding="15px 0px 5px 0px" full-width="full-width" background-color="#fbf6f6">
+        <mj-column padding="0px 15px" width="250px">
+          <mj-image src="https://mixtiles-promotional-email.s3.amazonaws.com/footer-logo.png" alt="mixtiles logo" padding="20px 30px" align="center" href="https://mixtiles.com" width="140px" />
+        </mj-column>
+
+        <!-- Container for links with a specified width to keep them in a single row -->
+        <mj-column padding="0px 0px 5px 5px" width="350px">
+          <mj-table align="center" width="100%">
+            <tr>
+              <td align="center" style="padding: 0">
+                <img src="https://mixtiles-promotional-email.s3.amazonaws.com/facebook.jpg" alt="facebook logo" width="35px" align="center" />
+              </td>
+              <td align="center" style="padding: 0">
+                <img src="https://mixtiles-promotional-email.s3.amazonaws.com/instagram.jpg" alt="twitter logo" width="35px" align="center" />
+              </td>
+              <td align="center" style="padding: 0">
+                <img src="https://mixtiles-promotional-email.s3.amazonaws.com/x.jpg" alt="instagram logo" width="35px" align="center" />
+              </td>
+              <td align="center" style="padding: 0">
+                <img src="https://mixtiles-promotional-email.s3.amazonaws.com/youtube.jpg" alt="youtube logo" width="35px" align="center" />
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section background-color="#fbf6f6" padding="5px 0 50px">
+        <mj-column>
+          <mj-text align="center" padding="0 50px" font-size="12px" line-height="1.5">
+            1313 N. Market St. Ste. 5100 Wilmington, DE 19801 | No longer want to receive these emails? You can unsubscribe.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
   </mj-body>
 </mjml>
 
